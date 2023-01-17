@@ -1,0 +1,30 @@
+ Các chức năng chính của Thanh Toán :
+	- Mã ưu đãi thanh toán:
+		+ Nhập mã ưu đãi
+		+ Áp dụng
+	- Thông tin thanh toán :
+		+ Họ tên 
+		+ Số điện thoại 
+		+ Địa chỉ  : thành phố - huyện - thị xã - thôn/xóm - số nhà
+		+ Email 
+	- Đơn hàng của bạn :
+		+ Danh sách sản phẩm đã chọn : 
+			* Số lượng
+			* Màu sắc 
+			* Kích cỡ
+		+ Giá tiền :
+			* Tổng giá tiền sản phẩm
+			* Giá từng sản phẩm
+			* Phí vận chuyển 
+		+ Hình thức và đơn vị vận chuyển :
+			* Giao hàng nhanh	
+			* Giao hàng tiết kiệm
+		+ Ghi chú đơn hàng
+	- Hình thức thanh toán :
+		+ Trả tiền mặt khi nhận hàng 
+		+ Trả tiền qua dịch vụ chuyển tiền ngân hàng:
+			* Ví điện tử qrcode vd : momo, vnpay ,....
+			* Qua thẻ ngân hàng :
+				# Thông tin thẻ 
+				# Mã bảo vệ
+			
